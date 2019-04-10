@@ -1,0 +1,33 @@
+ 
+.Header {
+        background-color:black;
+        color:#ff0090;
+        display:flex;  
+        height: 75px; 
+}
+nav {
+  background-color:black;
+  color:#ff0090;
+  font-size: 20px;
+  display: flex;
+  width:100%;
+  justify-content: space-around;
+}
+
+nav a {
+  background-color:black;
+  color:#ff0090;
+  font-size: 20px;
+  justify-content:space-around;
+  text-decoration: none;
+  margin:auto;
+}
+
+ nav a:hover { 
+    border-bottom:solid 2px #ff0090;
+    color:#ffffff;
+    text-align: center;
+  }
+
+
+

@@ -1,0 +1,47 @@
+.EnglishAboutPageMain
+img {
+    border-radius: 50%;
+    border: #ff0090 2px solid;
+    height:300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.EnglishAboutPageMain
+button 
+{
+    background-color:#ff0090;  
+    border:solid 2px #ff0090;
+}
+
+.EnglishAboutPageMain
+button:hover { 
+    background-color:#f79ed0;
+    border:solid 2px #ff0090;
+    padding: 15px 32px;
+    text-align: center;
+  }
+  .topColumn{
+      display:flex;
+      justify-content: space-around;
+  }
+  .EnglishAboutPageMain{
+      width:30%;
+  }
+  .projectOne{
+      border:solid 2px black;
+      height:200px;
+      box-shadow: 1px 1px 20px -4px #ff0090;
+  }
+  .MoreProjects{
+    background-color:black;
+    margin-top:1%;
+    color:#ff0090;
+    margin-bottom: 1%;
+    border:solid 2px #ff0090;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 1rem;
+  }
+
